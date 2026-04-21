@@ -1,0 +1,25 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+# Distribution / packaging
+.Python
+env/
+bin/
+lib/
+lib64/
+share/
+# Installations
+*.egg-info/
+dist/
+build/
+# mypy
+.mypy_cache/
+# Pytest
+.cache
+# IDEs
+.vscode/
+.idea/
+# Jupyter Notebook
+.ipynb_checkpoints/
